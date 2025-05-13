@@ -1,0 +1,8 @@
+{F:/vlsi project/fir_filter_design2/fir_filter.v} {1 {vlog -work work -vopt -stats=none {F:/vlsi project/fir_filter_design2/fir_filter.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module fir_filter
+
+Top level modules:
+	fir_filter
+
+} {} {}}

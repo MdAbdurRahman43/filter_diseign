@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/vlsi project/both_algorithm1
+T_opt
+!s110 1747146716
+Vhc=FhHW>bfZZhj:9<]I?61
+04 13 4 work fir_filter_tb fast 0
+=3-54e1ad96c068-682357dc-1ee-310
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+R0
+vfir_filter
+!s110 1747146671
+!i10b 1
+!s100 LLH^aoaD9M;TfSC]5A4mh3
+IMm9EhB0]?YL0bf8FlNGkJ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/vlsi project/fir_filter_design2
+w1747146662
+8F:/vlsi project/fir_filter_design2/fir_filter.v
+FF:/vlsi project/fir_filter_design2/fir_filter.v
+L0 23
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1747146671.000000
+!s107 F:/vlsi project/fir_filter_design2/fir_filter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vlsi project/fir_filter_design2/fir_filter.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfir_filter_tb
+!s110 1747147298
+!i10b 1
+!s100 =zniPbX4CQ4M=^L9zOj?L2
+Ic]n<^31HanEFQbTV1hjY01
+R2
+R3
+w1747147292
+8F:/vlsi project/fir_filter_design2/fir_filter_tb.v
+FF:/vlsi project/fir_filter_design2/fir_filter_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1747147297.000000
+!s107 F:/vlsi project/fir_filter_design2/fir_filter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vlsi project/fir_filter_design2/fir_filter_tb.v|
+!i113 0
+R5
+R1
